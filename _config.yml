@@ -2,5 +2,5 @@ remote_theme: pages-themes/slate@v0.2.0
 url: https://asaragga.github.io/FinCalc
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Financial Calculus for Solicitors
+title: Financial Computations for Solicitors
 description: Law and Money Matters
