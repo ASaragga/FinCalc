@@ -1,7 +1,8 @@
-# Topics at the Intersection of Law & Finance 
+
 Financial calculus is not typically a core requirement for solicitors, as their primary focus is on legal matters such as drafting contracts, providing legal advice, and representing clients in court. However, certain areas of legal practice do require a good understanding of financial concepts, models and calculus and can give solicitors an edge, particularly in those areas involving financial transactions, contracts, and disputes.
 
-**Here are the areas where financial calculus or similar skills may be useful for solicitors**
+# Topics at the Intersection of Law & Finance 
+**Areas where financial calculus or similar skills may be useful for solicitors**
 
 - Commercial Law
   - Understanding financial statements: In commercial law, solicitors often deal with company finances, business transactions, and mergers. A strong grasp of financial statements (balance sheets, income statements, and cash flows) is crucial.
