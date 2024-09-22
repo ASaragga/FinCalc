@@ -3,4 +3,4 @@ url: https://asaragga.github.io/FinCalc
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Financial Calculus for Solicitors
-description: Topics at the intersection of Law & Finance
+description: Law & Money Matters
