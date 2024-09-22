@@ -68,6 +68,7 @@ Takeaways
 Videos featuring experts sharing their real-world professional experiences as solicitors. Walk in the footseps of experts to learn how they use judgement to answear important questions in the intersection of both legal and quantitative finance perspectives.
 
 # Blogs
+Discover the professional insights of experienced solicitors as they navigate the complex relationship between law and financial analysis. Our blog delves into real-world experiences, offering expert perspectives and insights on how financial analysis impacts legal decisions, contract drafting, dispute resolution, and compliance. Whether you're a legal professional, a financial expert, or someone interested in the practical application of these fields, this blog provides a wealth of valuable knowledge, pratical tips, and in-depth analysis drawn from the front lines of legal practice.
 
 # Case Studies & Practice Exercises
 
