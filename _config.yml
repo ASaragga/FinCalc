@@ -3,4 +3,4 @@ url: https://asaragga.github.io/FinCalc
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Cálculo Financeiro em Solicitadoria
-description: Temas na intersecção entre Solicitadoria e Análise Financeira
+description: Temas na intersecção entre Solicitadoria e Finanças
