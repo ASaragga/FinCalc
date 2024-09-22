@@ -73,7 +73,7 @@ Videos featuring experts sharing their real-world professional experiences as so
 
 **Practice Exercises**
 
-Conceitos Básicos Fundamentais / Exercício 01: [Bases de Calendário & Excel](https://github.com/ASaragga/FinCal/Exercicio01.pdf)
+Conceitos Básicos Fundamentais / Exercício 01: [Bases de Calendário & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf)
 
 Objetivos de Aprendizagem:
 - Breve relato histórico de como as Convenções de Contagem de Dias se desenvolveram
