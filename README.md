@@ -25,14 +25,14 @@ Financial calculus is not typically a core requirement for solicitors, as their 
 **Core Mathematical and Financial Skills for Solicitors**
 
 Mathematical:
-- Basic Arithmetic and Algebra: Understanding ratios, percentages, and basic algebraic functions (e.g., solving for unknowns in financial equations)
-- Basic Statistics: In some areas, understanding probability and statistics may be useful, particularly in litigation (e.g., when assessing probabilities of financial outcomes).
-- For most solicitors, proficiency in <ins>Excel or Google Sheets</ins> is more relevant than pure mathematical skills.
+- Basic Arithmetic and Algebra: Understanding ratios, percentages, and basic algebraic functions.
+- Basic Statistics: In some areas, understanding probability and statistics may be useful, particularly in litigation.
+- For most solicitors, proficiency in <ins>Excel or Google Sheets</ins> is more relevant than pure mathematical skills
 
 Financial:
-- Time Value of Money: Familiarity with present value (PV), future value (FV), discounting, and compounding interest rates
-- Interest Rate Calculations: Ability to calculate simple and compound interest, which is vital for mortgages, loans, and other financial agreements
-- Risk Management: Familiarity with financial risk assessments, particularly in the context of corporate law, litigation, and insolvency
+- Time Value of Money: Familiarity with present value (PV), future value (FV), discounting, and compounding interest rates.
+- Interest Rate Calculations: Ability to calculate simple and compound interest, which is vital for mortgages, loans, and other financial agreements.
+- Risk Management: Familiarity with financial risk assessments, particularly in the context of corporate law, litigation, and insolvency.
 
 **Skills That Support Financial Calculus Knowledge**
 - Attention to Detail: To ensure accurate calculations in complex financial matters.
