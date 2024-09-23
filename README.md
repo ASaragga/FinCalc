@@ -84,7 +84,7 @@ Objetivos de Aprendizagem:
 - Cálculo do juro produzido num período, com base em diferentes bases de calendário
 - Excel: utilização de funções financeiras (FRAÇÃOANO) e de data & tempo (DATA) 
 
-Conceitos Básicos Fundamentais / Exercício 02: [Modelação Financeira, Bases de Calendário & Excel](https://github.com/ASaragga/FinCalc/blob/main/Assets/Exercicio02.pdf)
+Conceitos Básicos Fundamentais / Exercício 02: [Modelação Financeira, Bases de Calendário & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio02.pdf)
 
 Objetivos de Aprendizagem:
 - Modelação financeira elementar: receitas, custos fixos e variáveis
