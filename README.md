@@ -56,7 +56,7 @@ Successful attorneys cannot leave accounting, finance and valuation solely to a 
 - Valuing the hedge fund partnership interest of a husband involved in a divorce
 - Calculating harm from a breach of contract
 - Calculating the benefit from the misappropriation of intellectual property
-- Deriving the fair value of a company using Comparable Company Analysis and DCF models
+- Deriving the fair value of a company using Comparable Company analysis and DCF models
 
 **Takeaways**
 - Accounting, finance, and valuation are key elements in many legal disputes
