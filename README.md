@@ -21,7 +21,7 @@
   - Damages calculation: In litigation, especially commercial litigation, solicitors may need to calculate damages, which could involve present value or future value calculations, applying discount rates, or understanding the economic impact of interest rates over time.
   - Financial settlements: In cases involving financial settlements, a solicitor may need to calculate how much should be paid, factoring in interest, inflation, or depreciation over time.
 
-**Aditional Subtopics within the Intersection of Law and Finance from a Global Perspective**
+**Aditional Subtopics within the Intersection of Law and Finance from a Global but Less Quantitative Perspective**
 
 - Securities Law
   - Regulation of financial markets
