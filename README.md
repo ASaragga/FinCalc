@@ -2,7 +2,6 @@ Financial calculus is not typically a core requirement for solicitors, as their 
 
 # Topics at the Intersection of Law & Finance 
 ## Areas where financial calculus or similar skills may be useful for solicitors
-**Areas where financial calculus or similar skills may be useful for solicitors**
 
 - Commercial Law
   - Understanding financial statements: In commercial law, solicitors often deal with company finances, business transactions, and mergers. A strong grasp of financial statements (balance sheets, income statements, and cash flows) is crucial.
@@ -21,7 +20,7 @@ Financial calculus is not typically a core requirement for solicitors, as their 
   - Damages calculation: In litigation, especially commercial litigation, solicitors may need to calculate damages, which could involve present value or future value calculations, applying discount rates, or understanding the economic impact of interest rates over time.
   - Financial settlements: In cases involving financial settlements, a solicitor may need to calculate how much should be paid, factoring in interest, inflation, or depreciation over time.
 
-**Core Mathematical and Financial Skills for Solicitors**
+## Core Mathematical and Financial Skills for Solicitors
 
 Mathematical:
 - Basic Arithmetic and Algebra: Understanding ratios, percentages, and basic algebraic functions.
@@ -33,7 +32,7 @@ Financial:
 - Interest Rate Calculations: Ability to calculate simple and compound interest, which is vital for mortgages, loans, and other financial agreements.
 - Risk Management: Familiarity with financial risk assessments, particularly in the context of corporate law, litigation, and insolvency.
 
-**Skills That Support Financial Calculus Knowledge**
+## Skills That Support Financial Calculus Knowledge**
 - Attention to Detail: To ensure accurate calculations in complex financial matters.
 - Analytical Skills: To assess financial documents, valuations, and damages claims.
 - Negotiation Skills: Particularly in financial settlements, loan agreements, and contracts.
