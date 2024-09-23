@@ -21,6 +21,49 @@
   - Damages calculation: In litigation, especially commercial litigation, solicitors may need to calculate damages, which could involve present value or future value calculations, applying discount rates, or understanding the economic impact of interest rates over time.
   - Financial settlements: In cases involving financial settlements, a solicitor may need to calculate how much should be paid, factoring in interest, inflation, or depreciation over time.
 
+**Aditional Subtopics within the Intersection of Law and Finance from a Global Perspective**
+
+- Securities Law
+  - Regulation of financial markets
+  - Insider trading
+  - Initial public offerings (IPOs)
+
+- Banking Regulations
+  - Basel Accords
+  - Anti-money laundering (AML) laws
+  - Know Your Customer (KYC) regulations
+
+- Corporate Governance
+  - Shareholder rights
+  - Board responsibilities
+  - Executive compensation laws
+
+- Mergers and Acquisitions
+  - Antitrust laws
+  - Due diligence requirements
+  - Regulatory approvals
+
+
+- Bankruptcy and Insolvency
+  - Chapter 11 proceedings
+  - Creditor rights
+  - Restructuring regulations
+
+- Financial Crime
+  - Fraud detection and prevention
+  - Ponzi schemes
+  - Embezzlement laws
+
+- International Finance Law
+  - Cross-border transactions
+  - Foreign investment regulations
+  - International tax treaties
+
+- Fintech Regulation
+  - Cryptocurrency laws
+  - Peer-to-peer lending regulations
+  - Open banking legislation
+    
 **Core Mathematical and Financial Skills for Solicitors**
 
 Mathematical:
