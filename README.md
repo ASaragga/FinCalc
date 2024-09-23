@@ -1,5 +1,5 @@
 *Financial calculus is not typically a core requirement for solicitors, as their primary focus is on legal matters such as drafting contracts, providing legal advice, and representing clients in court. However, certain areas of legal practice do require a good understanding of financial concepts, models and calculus and can give solicitors an edge, particularly in those areas involving financial transactions, contracts, and disputes.*
-![Solicitadores](https://github.com/ASaragga/CalcDireito/blob/main/Assets/Solicitadores01.png)
+![Solicitadores](https://github.com/ASaragga/FinCalc/blob/main/Assets/Solicitadores01.png)
 
 
 # Topics at the Intersection of Law & Finance 
