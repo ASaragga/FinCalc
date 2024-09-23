@@ -2,5 +2,5 @@ remote_theme: pages-themes/leap-day@v0.2.0
 url: https://asaragga.github.io/FinCalc
 plugins:
 - jekyll-remote-theme 
-title: Financial Anlysis and Computations for Solicitors
-description: Law and Money Matters
+title: Law and Money Matters
+description: Financial Analysis and Computations for Solicitors
