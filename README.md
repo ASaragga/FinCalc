@@ -21,7 +21,8 @@
   - Damages calculation: In litigation, especially commercial litigation, solicitors may need to calculate damages, which could involve present value or future value calculations, applying discount rates, or understanding the economic impact of interest rates over time.
   - Financial settlements: In cases involving financial settlements, a solicitor may need to calculate how much should be paid, factoring in interest, inflation, or depreciation over time.
 
-**Aditional Subtopics within the Intersection of Law and Finance from a Global but Less Quantitative Perspective**
+
+**Aditional Topics within the Intersection of Law and Finance from a Global but Less Quantitative Perspective**
 
 - Securities Law
   - Regulation of financial markets
@@ -43,7 +44,6 @@
   - Due diligence requirements
   - Regulatory approvals
 
-
 - Bankruptcy and Insolvency
   - Chapter 11 proceedings
   - Creditor rights
@@ -63,7 +63,8 @@
   - Cryptocurrency laws
   - Peer-to-peer lending regulations
   - Open banking legislation
-    
+
+
 **Core Mathematical and Financial Skills for Solicitors**
 
 Mathematical:
@@ -81,6 +82,7 @@ Financial:
 - Analytical Skills: To assess financial documents, valuations, and damages claims.
 - Negotiation Skills: Particularly in financial settlements, loan agreements, and contracts.
 
+
 # Law & Finance Around the World
 
 [Harvard Law School Course: Financial Analysis and Valuation for Lawyers](https://www.youtube.com/watch?v=QPoRUsRzcPM)
@@ -91,7 +93,7 @@ Lawyers negotiate deals and manage lawsuits involving billions of dollars each y
 
 Successful attorneys cannot leave accounting, finance and valuation solely to a finance team, or outside experts. You need to independently understand the financial opportunities your client faces and discuss them using the language of finance. Through examples of disputes, valuations, and presentations from real-world practitioners, this course will teach you how to interpret and use financial data, make a business case for a deal or lawsuit, and understand when and how experts can support — or undermine — your work. 
 
-**Key practice exercises**
+**Key Practice Exercises**
 - Using present value to analyze a legal doctrine
 - Choosing among payment options for settlement of a lawsuit
 - Estimating profit and compensation from the BP Oil Spill Fund for a company harmed by the spill
