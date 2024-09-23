@@ -32,7 +32,7 @@ Financial:
 - Interest Rate Calculations: Ability to calculate simple and compound interest, which is vital for mortgages, loans, and other financial agreements.
 - Risk Management: Familiarity with financial risk assessments, particularly in the context of corporate law, litigation, and insolvency.
 
-## Skills That Support Financial Calculus Knowledge**
+## Skills That Support Financial Calculus Knowledge
 - Attention to Detail: To ensure accurate calculations in complex financial matters.
 - Analytical Skills: To assess financial documents, valuations, and damages claims.
 - Negotiation Skills: Particularly in financial settlements, loan agreements, and contracts.
@@ -70,9 +70,9 @@ Discover the professional insights of experienced solicitors as they navigate th
 
 # Case Studies & Practice Exercises
 
-**Case Studies**
+## Case Studies
 
-**Practice Exercises**
+## Practice Exercises
 
 Conceitos Básicos Fundamentais / Exercício 01: [Bases de Calendário & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf)
 
