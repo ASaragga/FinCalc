@@ -79,18 +79,18 @@ Discover the professional insights of experienced solicitors as they navigate th
 
 **Practice Exercises**
 
-Conceitos Básicos Fundamentais / Exercício 01: [Bases de Calendário & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf)
+Fundamental Basic Concepts / Exercise 01: [Bases de Calendário & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf)
 
-Objetivos de Aprendizagem:
-- Breve relato histórico de como as Convenções de Contagem de Dias se desenvolveram
-- Cálculo do juro produzido num período, com base em diferentes bases de calendário
-- Excel: utilização de funções financeiras (FRAÇÃOANO) e de data & tempo (DATA) 
+Learning Objectives:
+- Brief historical account of how Day Count Conventions developed
+- Calculation of interest produced in a period, based on different calendar bases
+- Excel: use of financial functions (YEARFRAC) and date & time functions (DATE)
 
-Conceitos Básicos Fundamentais / Exercício 02: [Modelação Financeira, Bases de Calendário & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio02.pdf)
+Fundamental Basic Concepts / Exercise 02: [Modelação Financeira, Bases de Calendário & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio02.pdf)
 
-Objetivos de Aprendizagem:
-- Modelação financeira elementar: receitas, custos fixos e variáveis
-- Cálculo do juro produzido num período, com base em diferentes bases de calendário
-- Excel: utilização do Goal Seek para determinação de valores críticos
+Learning Objectives:
+- Basic financial Modeling: revenue, fixed and variable costs and operational income
+- Calculation of interest produced in a period, based on different calendar bases
+- Excel: using Goal Seek to compute critical values
 
 # The Team
