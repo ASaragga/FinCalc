@@ -70,9 +70,9 @@ Discover the professional insights of experienced solicitors as they navigate th
 
 # Case Studies & Practice Exercises
 
-## Case Studies
+**Case Studies**
 
-## Practice Exercises
+**Practice Exercises**
 
 Conceitos Básicos Fundamentais / Exercício 01: [Bases de Calendário & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf)
 
