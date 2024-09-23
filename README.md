@@ -48,7 +48,7 @@ Lawyers negotiate deals and manage lawsuits involving billions of dollars each y
 
 Successful attorneys cannot leave accounting, finance and valuation solely to a finance team, or outside experts. You need to independently understand the financial opportunities your client faces and discuss them using the language of finance. Through examples of disputes, valuations, and presentations from real-world practitioners, this course will teach you how to interpret and use financial data, make a business case for a deal or lawsuit, and understand when and how experts can support — or undermine — your work. 
 
-Key practice exercises
+**Key practice exercises**
 - Using present value to analyze a legal doctrine
 - Choosing among payment options for settlement of a lawsuit
 - Estimating profit and compensation from the BP Oil Spill Fund for a company harmed by the spill
@@ -57,7 +57,7 @@ Key practice exercises
 - Calculating the benefit from the misappropriation of intellectual property
 - Deriving the fair value of a company using Comparable Company Analysis and DCF models
 
-Takeaways
+**Takeaways**
 - Accounting, finance, and valuation are key elements in many legal disputes
 - Present value, discounting, the perpetuity formula, Comparable Company Analysis and the DCF model are all used by lawyers in various ways in real lawsuits
 
