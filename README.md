@@ -22,7 +22,7 @@
   - Financial settlements: In cases involving financial settlements, a solicitor may need to calculate how much should be paid, factoring in interest, inflation, or depreciation over time.
 
 
-**Aditional Topics within the Intersection of Law and Finance from a Global but Less Quantitative Perspective**
+**Aditional Areas within the Intersection of Law and Finance from a Global but Less Quantitative Perspective**
 
 - Securities Law
   - Regulation of financial markets
