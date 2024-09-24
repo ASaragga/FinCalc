@@ -89,7 +89,7 @@ Learning Objectives:
 Fundamental Basic Concepts / Exercise 02: [Financial Modeling, Calendar Bases & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio02.pdf)
 
 Learning Objectives:
-- Basic financial Modeling: revenue, fixed and variable costs and operational income
+- Basic financial modeling: revenue, fixed and variable costs and operational income
 - Calculation of interest produced in a period, based on different calendar bases
 - Excel: using Goal Seek to compute critical values
 
