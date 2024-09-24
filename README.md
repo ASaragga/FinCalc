@@ -28,7 +28,7 @@ However, certain areas of legal practice do require a good understanding of fina
 **Core Mathematical and Financial Skills for Solicitors**
 
 Mathematical:
-- Arithmetic and Basic Algebra: Understanding ratios, percentages, algebraic functions and solving basic equation.
+- Arithmetic and Basic Algebra: Understanding ratios, percentages, algebraic functions and solving basic equations.
 - Basic Statistics: In some areas, understanding probability and statistics may be useful, particularly in litigation.
 - For most solicitors, proficiency in <ins>Excel or Google Sheets</ins> is more relevant than pure mathematical skills.
 
