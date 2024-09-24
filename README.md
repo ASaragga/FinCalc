@@ -7,7 +7,7 @@
 - Commercial Law
   - Understanding financial statements: In commercial law, solicitors often deal with company finances, business transactions, and mergers. A strong grasp of financial statements (balance sheets, income statements, and cash flows) is crucial.
   - Valuation of assets and businesses: Solicitors involved in mergers and acquisitions need to understand financial models to evaluate the value of companies or assets.
-  - Interest calculations: Financial calculus helps with understanding interest rates, loan amortization schedules, and the time value of money.
+  - Interest calculations: Financial calculus helps with understanding interest rates and loan amortization schedules.
 - Tax Law
   - Tax computations: Solicitors working in tax law need to compute taxes, understand tax implications of financial transactions, and may require some familiarity with mathematical models to ensure accurate tax planning and compliance.
   - Capital gains and losses: Understanding the timing and calculation of capital gains or losses over time, including any taxation on deferred gains.
