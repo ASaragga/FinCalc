@@ -4,7 +4,7 @@ Financial calculus is not typically a core requirement for solicitors, as their 
 
 However, certain areas of legal practice do require a good understanding of financial concepts, models and calculus and can give solicitors a competitive edge, particularly in those areas involving financial transactions, contracts, and disputes.
 
-# Topics Where Law Meets Finance 
+# Topics Where Law Meets Finance :clinking_glasses:
 
 **Areas where Financial Skills may be Useful for Solicitors**
 
