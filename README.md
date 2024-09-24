@@ -24,9 +24,9 @@
 **Core Mathematical and Financial Skills for Solicitors**
 
 Mathematical:
-- Basic Arithmetic and Algebra: Understanding ratios, percentages, and basic algebraic functions.
+- Arithmetic and Basic Algebra: Understanding ratios, percentages, algebraic functions and solving basic equation.
 - Basic Statistics: In some areas, understanding probability and statistics may be useful, particularly in litigation.
-- For most solicitors, proficiency in <ins>Excel or Google Sheets</ins> is more relevant than pure mathematical skills
+- For most solicitors, proficiency in <ins>Excel or Google Sheets</ins> is more relevant than pure mathematical skills.
 
 Financial:
 - Time Value of Money: Familiarity with present value (PV), future value (FV), discounting, and compounding interest rates.
