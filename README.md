@@ -6,24 +6,28 @@ However, certain areas of legal practice do require a good understanding of fina
 
 # Topics Where Law Meets Finance 🍻
 
-**Areas where Financial Skills may be Useful for Solicitors**
+**Areas where Financial Skills may be Useful for Solicitors:**
 
-- Commercial Law
-  - Understanding financial statements: In commercial law, solicitors often deal with company finances, business transactions, and mergers. A strong grasp of financial statements (balance sheets, income statements, and cash flows) is crucial.
-  - Valuation of assets and businesses: Solicitors involved in mergers and acquisitions need to understand financial models to evaluate the value of companies or assets.
-  - Interest calculations: Financial calculus helps with understanding interest rates and loan amortization schedules.
-- Tax Law
-  - Tax computations: Solicitors working in tax law need to compute taxes, understand tax implications of financial transactions, and may require some familiarity with mathematical models to ensure accurate tax planning and compliance.
-  - Capital gains and losses: Understanding the timing and calculation of capital gains or losses over time, including any taxation on deferred gains.
-- Property Law
-  - Mortgages and loan agreements: A basic understanding of financial calculus, particularly compound interest, is useful in drafting and negotiating loan agreements and mortgages.
-  - Valuation of real estate: Property law solicitors might need to assess the financial aspects of real estate transactions, including valuing property based on potential future returns.
-- Corporate and Insolvency Law
-  - Debt restructuring: Solicitors in corporate restructuring or insolvency may deal with complex financial arrangements and restructuring plans, which require an understanding of interest rates, debt recovery, financial modeling and valuation methods.
-  - Financial risk assessments: Solicitors may be called upon to analyze financial risks and assist with formulating strategies to mitigate them.
-- Litigation
-  - Damages calculation: In litigation, especially commercial litigation, solicitors may need to calculate damages, which could involve present value or future value calculations, applying discount rates, or understanding the economic impact of interest rates over time.
-  - Financial settlements: In cases involving financial settlements, a solicitor may need to calculate how much should be paid, factoring in interest, inflation, or depreciation over time.
+Commercial Law
+- Understanding financial statements: In commercial law, solicitors often deal with company finances, business transactions, and mergers. A strong grasp of financial statements (balance sheets, income statements, and cash flows) is crucial.
+- Valuation of assets and businesses: Solicitors involved in mergers and acquisitions need to understand financial models to evaluate the value of companies or assets.
+- Interest calculations: Financial calculus helps with understanding interest rates and loan amortization schedules.
+
+Tax Law
+- Tax computations: Solicitors working in tax law need to compute taxes, understand tax implications of financial transactions, and may require some familiarity with mathematical models to ensure accurate tax planning and compliance.
+- Capital gains and losses: Understanding the timing and calculation of capital gains or losses over time, including any taxation on deferred gains.
+
+Property Law
+- Mortgages and loan agreements: A basic understanding of financial calculus, particularly compound interest, is useful in drafting and negotiating loan agreements and mortgages.
+- Valuation of real estate: Property law solicitors might need to assess the financial aspects of real estate transactions, including valuing property based on potential future returns.
+
+Corporate and Insolvency Law
+- Debt restructuring: Solicitors in corporate restructuring or insolvency may deal with complex financial arrangements and restructuring plans, which require an understanding of interest rates, debt recovery, financial modeling and valuation methods.
+- Financial risk assessments: Solicitors may be called upon to analyze financial risks and assist with formulating strategies to mitigate them.
+
+Litigation
+- Damages calculation: In litigation, especially commercial litigation, solicitors may need to calculate damages, which could involve present value or future value calculations, applying discount rates, or understanding the economic impact of interest rates over time.
+- Financial settlements: In cases involving financial settlements, a solicitor may need to calculate how much should be paid, factoring in interest, inflation, or depreciation over time.
 
 **Core Mathematical and Financial Skills for Solicitors**
 
