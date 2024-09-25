@@ -68,7 +68,7 @@ Bayer agrees to pay more than $10 billion to settle claims that its weedkiller, 
 
 >  **Takeaways**
 - Accounting, finance, and valuation are key elements in many legal disputes.
-- Present value, discounting, the perpetuity formula, Comparable Company Analysis and the DCF model are all used by lawyers in various ways in real lawsuits.
+- Present value, discounting, the perpetuity formula, Comparable Company analysis and the DCF model are all used by solictors in various ways in real lawsuits.
 
 
 # Video Testimonials
