@@ -6,7 +6,7 @@ However, certain areas of legal practice do require a good understanding of fina
 
 # Topics Where Law Meets Finance 🍻
 
-**Areas where Financial Skills may be Useful for Solicitors:**
+**Areas where Financial Skills may be Useful for Solicitors**
 
 Commercial Law
 - Understanding financial statements: In commercial law, solicitors often deal with company finances, business transactions, and mergers. A strong grasp of financial statements (balance sheets, income statements, and cash flows) is crucial.
