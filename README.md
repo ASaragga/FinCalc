@@ -54,17 +54,17 @@ Bayer agrees to pay more than $10 billion to settle claims that its weedkiller, 
 >  Successful attorneys cannot leave accounting, finance and valuation solely to a finance team, or outside experts. You need to independently understand the financial opportunities your client faces and discuss them using the language of finance. Through examples of disputes, valuations, and presentations from real-world practitioners, this course will teach you how to interpret and use financial data, make a business case for a deal or lawsuit, and understand when and how experts can support — or undermine — your work. 
 
 >  **Key Practice Exercises**
-- Using present value to analyze a legal doctrine
-- Choosing among payment options for settlement of a lawsuit
-- Estimating profit and compensation from the BP Oil Spill Fund for a company harmed by the spill
-- Valuing the hedge fund partnership interest of a husband involved in a divorce
-- Calculating harm from a breach of contract
-- Calculating the benefit from the misappropriation of intellectual property
-- Deriving the fair value of a company using Comparable Company analysis and DCF models
+- Using present value to analyze a legal doctrine.
+- Choosing among payment options for settlement of a lawsuit.
+- Estimating profit and compensation from the BP Oil Spill Fund for a company harmed by the spill.
+- Valuing the hedge fund partnership interest of a husband involved in a divorce.
+- Calculating harm from a breach of contract.
+- Calculating the benefit from the misappropriation of intellectual property.
+- Deriving the fair value of a company using Comparable Company analysis and DCF models.
 
 >  **Takeaways**
-- Accounting, finance, and valuation are key elements in many legal disputes
-- Present value, discounting, the perpetuity formula, Comparable Company Analysis and the DCF model are all used by lawyers in various ways in real lawsuits
+- Accounting, finance, and valuation are key elements in many legal disputes.
+- Present value, discounting, the perpetuity formula, Comparable Company Analysis and the DCF model are all used by lawyers in various ways in real lawsuits.
 
 
 # Video Testimonials
@@ -86,13 +86,13 @@ Whether you're a legal professional, a financial expert, or someone interested i
 **Practice Exercises**
 
 Fundamental Basic Concepts / Exercise 01: [Calendar Bases & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf). Learning Objectives:
-- Brief historical account of how Day Count Conventions developed
-- Calculation of interest produced in a period, based on different calendar bases
-- Excel: use of financial functions (YEARFRAC) and date & time functions (DATE)
+- Brief historical account of how Day Count Conventions developed.
+- Calculation of interest produced in a period, based on different calendar bases.
+- Excel: use of financial functions (YEARFRAC) and date & time functions (DATE).
 
 Fundamental Basic Concepts / Exercise 02: [Financial Modeling, Calendar Bases & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio02.pdf). Learning Objectives:
-- Basic financial modeling: product & service sales, fixed and variable costs and operating income
-- Calculation of interest produced in a period, based on different calendar bases
-- Excel: using Goal Seek to compute critical values
+- Basic financial modeling: product & service sales, variable and fixed costs, operating income and net income.
+- Calculation of interest produced in a period, based on different calendar bases.
+- Excel: using Goal Seek to compute critical values.
 
 # The Team
