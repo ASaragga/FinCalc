@@ -91,7 +91,7 @@ Fundamental Basic Concepts / Exercise 01: [Calendar Bases & Excel](https://githu
 - Excel: use of financial functions (YEARFRAC) and date & time functions (DATE)
 
 Fundamental Basic Concepts / Exercise 02: [Financial Modeling, Calendar Bases & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio02.pdf). Learning Objectives:
-- Basic financial modeling: revenue, fixed and variable costs and operational income
+- Basic financial modeling: product & service sales, fixed and variable costs and operating income
 - Calculation of interest produced in a period, based on different calendar bases
 - Excel: using Goal Seek to compute critical values
 
