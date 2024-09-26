@@ -98,5 +98,3 @@ Fundamental Basic Concepts / Exercise 02: [Financial Modeling, Calendar Bases & 
 - Basic financial modeling: product & service sales, variable and fixed costs, operating income and net income.
 - Calculation of interest produced in a period, based on different calendar bases.
 - Excel: using Goal Seek to compute critical values.
-
-# The Team
