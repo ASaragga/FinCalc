@@ -1,4 +1,4 @@
-![](Solicitadores01.png?raw=true)
+![](Solicitadores001.png?raw=true)
 
 Financial calculus is not typically a core requirement for solicitors, as their primary focus is on legal matters such as drafting contracts, providing legal advice, and representing clients in court. 
 
