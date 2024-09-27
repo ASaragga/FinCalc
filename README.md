@@ -91,12 +91,12 @@ Whether you're a legal professional, a financial expert, or someone interested i
 
 **Practice Exercises**
 
-Fundamental Basic Concepts / Exercise 01: [Calendar Bases & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf). Learning Objectives:
+Fundamental Basic Concepts / Exercise 01: [🔗Calendar Bases & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf). Learning Objectives:
 - Brief historical account of how Day Count Conventions developed.
 - Calculation of interest produced in a period, based on different calendar bases.
 - Excel: use of financial functions (YEARFRAC) and date & time functions (DATE).
 
-Fundamental Basic Concepts / Exercise 02: [Financial Modeling, Calendar Bases & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio02.pdf). Learning Objectives:
+Fundamental Basic Concepts / Exercise 02: [🔗Financial Modeling, Calendar Bases & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio02.pdf). Learning Objectives:
 - Basic financial modeling: product & service sales, variable and fixed costs, operating income and net income.
 - Calculation of interest produced in a period, based on different calendar bases.
 - Excel: using Goal Seek to compute critical values.
