@@ -51,7 +51,7 @@ Financial:
 
 Bayer agrees to pay more than $10 billion to settle claims that its weedkiller, Roundup, caused cancer. Why not $15 billion or $5 billion?
 
-**Overview ot the Harvard Law School Course: Financial Analysis and Valuation for Lawyers** ↓
+**Overview ot the Harvard Law School Course: Financial Analysis and Valuation for Lawyers** (⭣)
 
 [![Harvard Law School Course](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
 
