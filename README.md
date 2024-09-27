@@ -51,9 +51,11 @@ Financial:
 
 Bayer agrees to pay more than $10 billion to settle claims that its weedkiller, Roundup, caused cancer. Why not $15 billion or $5 billion?
 
-**Overview ot the Harvard Law School Course: Financial Analysis and Valuation for Lawyers** (⭣)
+## Courses Overview
 
-[![Harvard Law School Course](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
+1. Financial Analysis and Valuation for Lawyers / Harvard Law School (⭣Video)
+
+> [![Harvard Law School Course](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
 
 >  Lawyers negotiate deals and manage lawsuits involving billions of dollars each year. To do that, you need more than legal expertise. You need a fundamental understanding of the finances behind a deal or dispute, including how to read and analyze financial statements or use financial concepts to value a business, patent, or marital estate. You need more than law knowledge to advise a client on any significant transaction — and to help a client even assess whether it's best to pursue a claim or to settle.
 
@@ -100,3 +102,5 @@ Fundamental Basic Concepts / Exercise 02: [🔗Financial Modeling, Calendar Base
 - Basic financial modeling: product & service sales, variable and fixed costs, operating income and net income.
 - Calculation of interest produced in a period, based on different calendar bases.
 - Excel: using Goal Seek to compute critical values.
+
+🔗 = HyperLink
