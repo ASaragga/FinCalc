@@ -6,7 +6,7 @@ However, certain areas of legal practice do require a good understanding of fina
 
 # Topics Where Law Meets Finance 🍻
 
-**Areas where Financial Skills may be Useful for Solicitors**
+**Areas where Financial Skills may be Useful for Solicitors** 
 
 Commercial Law
 - Understanding financial statements: In commercial law, solicitors often deal with company finances, business transactions, and mergers. A strong grasp of financial statements (balance sheets, income statements, and cash flows) is crucial.
@@ -53,7 +53,7 @@ Bayer agrees to pay more than $10 billion to settle claims that its weedkiller, 
 
 ## Case Studies
 
-**Mind your Business: Valuing Corporate Assets on Divorce**
+**Mind your Business: Valuing Corporate Assets on Divorce / Kingsley Napley, 2024** 
 
 With over 800,000 businesses incorporated in the UK every year, it is no surprise that business assets and in particular the disposal of business interests are often a significant issue when dividing assets between separating spouses in financial remedy proceedings. 
 
@@ -61,7 +61,7 @@ In the recent High Court case of GA v EL (2023), the court considered the effect
 
 The husband’s case was that a significant part of the business proceeds derived from 2 years and 2 months of post-separation endeavour and were therefore non-matrimonial. However, the wife argued that the totality of the business was matrimonial and the increase in value was growth from matrimonial efforts and the subsequent natural growth which an established business could expect in a strong market.
 
-The parties instructed a single joint expert (‘SJE’), i.e. an expert who is appointed by the court where both of the parties have conduct of the instruction. The SJE valued the business at the date of separation (November 2019) at £28.1 million, using a ‘present day approach’, where the SJE effectively transported himself to 2019 and did not have consideration to the subsequent years, resulting in the business selling in 2021 for £70 million[^1]. The judge adopted the figures of £30 million for the valuation at separation and £60 million at the time of sale. The lower valuation was to account for the fragility of the figures as upon sale some of the consideration was deferred as equity in a holding company.
+The parties instructed a single joint expert (SJE), i.e. an expert who is appointed by the court where both of the parties have conduct of the instruction. The SJE valued the business at the date of separation (November 2019) at £28.1 million, using a ‘present day approach’, where the SJE effectively transported himself to 2019 and did not have consideration to the subsequent years, resulting in the business selling in 2021 for £70 million[^1]. The judge adopted the figures of £30 million for the valuation at separation and £60 million at the time of sale. The lower valuation was to account for the fragility of the figures as upon sale some of the consideration was deferred as equity in a holding company.
 
 The court ordered a division of 42.5% of the proceeds to the wife and 57.5% to the husband, which put the husband’s post-separation endeavour at approximately 15%.
 
