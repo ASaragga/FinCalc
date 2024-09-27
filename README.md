@@ -53,7 +53,7 @@ Bayer agrees to pay more than $10 billion to settle claims that its weedkiller, 
 
 ## Courses Overview
 
-1. Financial Analysis and Valuation for Lawyers / Harvard Law School (⭣Video)
+**Financial Analysis and Valuation for Lawyers / Harvard Law School** (⭣Video)
 
 > [![Harvard Law School Course](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
 
