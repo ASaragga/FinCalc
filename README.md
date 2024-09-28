@@ -102,10 +102,9 @@ Should either party be dissatisfied with the single joint expert report, then it
 
 **Case Studies**
 
-Case Study 01 / [🔗IRS Snowballs in Portugal: The Worst Deal in the World](https://github.com/ASaragga/FinCalc/blob/main/CaseStudy01.pdf).
+Case Study 01 / [🔗IRS Snowballs in Portugal: The Worst Deal in the World!](https://github.com/ASaragga/FinCalc/blob/main/CaseStudy01.pdf). Learning Objectives:
 
-Case Study 02 / [🔗The Owner of All This: The Fall of a Financial Empire](https://github.com/ASaragga/FinCalc/blob/main/CaseStudy02.pdf).
-.
+Case Study 02 / [🔗The Owner of All This: The Fall of a Financial Empire](https://github.com/ASaragga/FinCalc/blob/main/CaseStudy02.pdf). Learning Objectives:
 
 **Jupyter/Pluto Notebooks**
 
