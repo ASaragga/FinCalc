@@ -55,7 +55,6 @@ Bayer agrees to pay more than $10 billion to settle claims that its weedkiller, 
 
 **Mind your Business: Valuing Corporate Assets on Divorce / Kingsley Napley, 2024** 
 
-The firm is often cited by the mainstream media for comments and insights on notable cases, legal precedents, pro bono matters, and its business management practices.
 With over 800,000 businesses incorporated in the UK every year, it is no surprise that business assets and in particular the disposal of business interests are often a significant issue when dividing assets between separating spouses in financial remedy proceedings. 
 
 In the recent High Court case of GA v EL (2023), the court considered the effect of post-separation endeavour on the value of a business.  In this particular case, the parties had a long marriage of 12 years and 2 children together. The former family home was transferred into the wife’s sole name, but the parties were unable to agree the division of the £70 million business proceeds which made up the bulk of their assets.
@@ -73,13 +72,13 @@ The court ordered a division of 42.5% of the proceeds to the wife and 57.5% to t
 
 ## Courses Overview
 
-**Financial Analysis and Valuation for Lawyers / Harvard Law School** (⭣Video)
-
-> [![Harvard Law School Course](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
+**Financial Analysis and Valuation for Lawyers / Harvard Law School** 
 
 >  Lawyers negotiate deals and manage lawsuits involving billions of dollars each year. To do that, you need more than legal expertise. You need a fundamental understanding of the finances behind a deal or dispute, including how to read and analyze financial statements or use financial concepts to value a business, patent, or marital estate. You need more than law knowledge to advise a client on any significant transaction — and to help a client even assess whether it's best to pursue a claim or to settle.
 
->  Successful attorneys cannot leave accounting, finance and valuation solely to a finance team, or outside experts. You need to independently understand the financial opportunities your client faces and discuss them using the language of finance. Through examples of disputes, valuations, and presentations from real-world practitioners, this course will teach you how to interpret and use financial data, make a business case for a deal or lawsuit, and understand when and how experts can support — or undermine — your work. 
+>  Successful attorneys cannot leave accounting, finance and valuation solely to a finance team, or outside experts. You need to independently understand the financial opportunities your client faces and discuss them using the language of finance. Through examples of disputes, valuations, and presentations from real-world practitioners, this course will teach you how to interpret and use financial data, make a business case for a deal or lawsuit, and understand when and how experts can support — or undermine — your work (⭣Video).
+
+> [![Harvard Law School Course](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
 
 >  **Key Practice Exercises**
 - Using present value to analyze a legal doctrine.
