@@ -106,18 +106,18 @@ Should either party be dissatisfied with the single joint expert report, then it
 
 **Excel Practice Exercises**
 
-Exercise 01 / Fundamental Basic Concepts: [🔗Calendar Bases & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf). Learning Objectives:
+Exercise 01 / Fundamental Basic Concepts: [🔗Calendar Bases](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf). Learning Objectives:
 - Brief historical account of how Day Count Conventions developed.
 - Calculation of interest produced in a period, based on different calendar bases.
 - Excel: use of financial functions (YEARFRAC) and date & time functions (DATE).
 
-Exercise 02 / Fundamental Basic Concepts: [🔗Financial Modeling, Calendar Bases & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio02.pdf). Learning Objectives:
+Exercise 02 / Fundamental Basic Concepts: [🔗Financial Modeling, Calendar Bases](https://github.com/ASaragga/FinCalc/blob/main/Exercicio02.pdf). Learning Objectives:
 - Basic financial modeling: product & service sales, variable and fixed costs, operating income and net income.
 - Calculation of interest produced in a period, based on different calendar bases.
-- Excel: using Goal Seek to compute critical values.
+- Excel: using Goal Seek to solve equations and compute critical values.
 
 Exercise 03 / Simple Interest Capitalization: [🔗Loans Renegotiation](https://github.com/ASaragga/FinCalc/blob/main/Exercicio03.pdf). Learning Objectives:
 - Computations associated with loans renegotiation.
-- Excel: using Goal Seek to compute critical values.
+- Excel: using Goal Seek to solve equations and compute critical values.
   
 🔗 = HyperLink
