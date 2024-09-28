@@ -127,4 +127,6 @@ Exercise 03 / Simple Interest Capitalization: [🔗Loans Renegotiation](https://
 
 # Meta Discussions
 
+# Offtopic
+
 🔗 = HyperLink
