@@ -108,7 +108,7 @@ Case Study 02 / [🔗The Owner of All This: The Fall of a Financial Empire](http
 
 **Jupyter/Pluto Notebooks**
 
-**Practical Exercises in Excel**
+**Practice Exercises in Excel**
 
 Exercise 01 / Fundamental Basic Concepts: [🔗Calendar Bases](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf). Learning Objectives:
 - Brief historical account of how Day Count Conventions developed.
