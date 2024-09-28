@@ -102,9 +102,14 @@ Should either party be dissatisfied with the single joint expert report, then it
 
 **Case Studies**
 
+Case Study 01 / [🔗IRS Snowballs in Portugal: The Worst Deal in the World](https://github.com/ASaragga/FinCalc/blob/main/CaseStudy01.pdf).
+
+Case Study 02 / [🔗The Owner of All This: The Fall of a Financial Empire](https://github.com/ASaragga/FinCalc/blob/main/CaseStudy02.pdf).
+.
+
 **Jupyter/Pluto Notebooks**
 
-**Excel Exercises**
+**Practical Exercises in Excel**
 
 Exercise 01 / Fundamental Basic Concepts: [🔗Calendar Bases](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf). Learning Objectives:
 - Brief historical account of how Day Count Conventions developed.
