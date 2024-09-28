@@ -94,7 +94,7 @@ With over 800,000 businesses incorporated in the UK every year, it is no surpris
 
 Should either party be dissatisfied with the single joint expert report, then it is open for them to make a *Daniels v Walker* application.
 
-*Kingsley Napley is a London-based law firm, authorised and regulated by the Solicitors Regulation Authority. The firm's practice areas include: Corporate, Commercial & Finance, Costs & Litigation Management, Dispute Resolution, Family and Divorce, Real Estate & Construction, and Restructuring and Insolvency. Kingsley Napley has won recent industry awards including "Law firm of the year: The Independents" from The Lawyer.* Source: Wikipedia
+*Kingsley Napley is a London-based law firm, authorised and regulated by the Solicitors Regulation Authority. The firm's practice areas include: Corporate, Commercial & Finance, Costs & Litigation Management, Dispute Resolution, Family and Divorce, Real Estate & Construction, and Restructuring and Insolvency. (Source: Wikipedia).*
 
 
 
