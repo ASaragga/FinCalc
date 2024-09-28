@@ -98,7 +98,7 @@ Should either party be dissatisfied with the single joint expert report, then it
 
 
 
-# Case Studies, Notebooks and Excel Exercises
+# Case Studies, Background Notes and Excel Exercises
 
 **Case Studies**
 
@@ -106,7 +106,7 @@ Case Study 01 / [🔗IRS Snowballs in Portugal: The Worst Deal in the World!](ht
 
 Case Study 02 / [🔗The Owner of All This: The Fall of a Financial Empire](https://github.com/ASaragga/FinCalc/blob/main/CaseStudy02.pdf). Learning Objectives:
 
-**Jupyter/Pluto Notebooks**
+**Background Notes: Jupyter/Pluto Notebooks**
 
 **Practice Exercises in Excel**
 
