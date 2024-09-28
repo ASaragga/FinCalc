@@ -49,12 +49,13 @@ Financial:
 - Negotiation Skills: Particularly in financial settlements, loan agreements, and contracts.
 
 
-# Law & Finance Courses Around the World
+# Law & Finance Programs Around the World
 
-
-
+## Master of Laws 
+Offered by top law schools, LL.M. programs in law and finance provide in-depth knowledge of financial regulations, mergers and acquisitions, corporate governance, and securities law. 
 
 ## Executive Education
+These are intensive short courses aimed at professionals who already have a background in either law or finance:
 
 **Financial Analysis and Valuation for Lawyers (Harvard Law School, USA)**. 
 Teaches lawyers how to analyze financial statements, understand valuation methods, and apply them in legal contexts such as M&A or bankruptcy.
