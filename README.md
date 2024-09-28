@@ -51,23 +51,7 @@ Financial:
 
 Bayer agrees to pay more than $10 billion to settle claims that its weedkiller, Roundup, caused cancer. Why not $15 billion or $5 billion?
 
-## Case Studies
 
-**Mind your Business: Valuing Corporate Assets on Divorce / Kingsley Napley, 2024** 
-
-With over 800,000 businesses incorporated in the UK every year, it is no surprise that business assets and in particular the disposal of business interests are often a significant issue when dividing assets between separating spouses in financial remedy proceedings. 
-
-In the recent High Court case of GA v EL (2023), the court considered the effect of post-separation endeavour on the value of a business.  In this particular case, the parties had a long marriage of 12 years and 2 children together. The former family home was transferred into the wife’s sole name, but the parties were unable to agree the division of the £70 million business proceeds which made up the bulk of their assets.
-
-The husband’s case was that a significant part of the business proceeds derived from 2 years and 2 months of post-separation endeavour and were therefore non-matrimonial. However, the wife argued that the totality of the business was matrimonial and the increase in value was growth from matrimonial efforts and the subsequent natural growth which an established business could expect in a strong market.
-
-The parties instructed a single joint expert (SJE), i.e. an expert who is appointed by the court where both of the parties have conduct of the instruction. The SJE valued the business at the date of separation (November 2019) at £28.1 million, using a ‘present day approach’, where the SJE effectively transported himself to 2019 and did not have consideration to the subsequent years, resulting in the business selling in 2021 for £70 million[^1]. The judge adopted the figures of £30 million for the valuation at separation and £60 million at the time of sale. The lower valuation was to account for the fragility of the figures as upon sale some of the consideration was deferred as equity in a holding company.
-
-The court ordered a division of 42.5% of the proceeds to the wife and 57.5% to the husband, which put the husband’s post-separation endeavour at approximately 15%.
-
-*Kingsley Napley is a London-based law firm, authorised and regulated by the Solicitors Regulation Authority. The firm's practice areas include: Corporate, Commercial & Finance, Costs & Litigation Management, Dispute Resolution, Family and Divorce, Real Estate & Construction, and Restructuring and Insolvency. Kingsley Napley has won recent industry awards including "Law firm of the year: The Independents" from The Lawyer and is commended in seven categories in The Times Best Law Firms 2024.* Source: Wikipedia
-
-[^1]: Should either party be dissatisfied with the single joint expert report, then it is open for them to make a *Daniels v Walker* application.
 
 
 ## Courses Overview
@@ -102,6 +86,23 @@ Videos featuring experts sharing their real-world professional experiences as so
 Discover the professional insights of experienced solicitors as they navigate the complex relationship between law and financial analysis. Our blog articles delve into real-world experiences, offering expert perspectives and insights on how financial analysis & calculus impacts legal decisions, contract drafting, dispute resolution, and compliance. 
 
 Whether you're a legal professional, a financial expert, or someone interested in the practical application of these fields, this blog provides a wealth of valuable knowledge, pratical tips, and in-depth analysis drawn from the front lines of legal practice.
+
+
+**Mind your Business: Valuing Corporate Assets on Divorce / Kingsley Napley, 2024** 
+
+>With over 800,000 businesses incorporated in the UK every year, it is no surprise that business assets and in particular the disposal of business interests are often a significant issue when dividing assets between separating spouses in financial remedy proceedings. 
+
+>In the recent High Court case of GA v EL (2023), the court considered the effect of post-separation endeavour on the value of a business.  In this particular case, the parties had a long marriage of 12 years and 2 children together. The former family home was transferred into the wife’s sole name, but the parties were unable to agree the division of the £70 million business proceeds which made up the bulk of their assets.
+
+>The husband’s case was that a significant part of the business proceeds derived from 2 years and 2 months of post-separation endeavour and were therefore non-matrimonial. However, the wife argued that the totality of the business was matrimonial and the increase in value was growth from matrimonial efforts and the subsequent natural growth which an established business could expect in a strong market.
+
+>The parties instructed a single joint expert (SJE), i.e. an expert who is appointed by the court where both of the parties have conduct of the instruction. The SJE valued the business at the date of separation (November 2019) at £28.1 million, using a ‘present day approach’, where the SJE effectively transported himself to 2019 and did not have consideration to the subsequent years, resulting in the business selling in 2021 for £70 million[^1]. The judge adopted the figures of £30 million for the valuation at separation and £60 million at the time of sale. The lower valuation was to account for the fragility of the figures as upon sale some of the consideration was deferred as equity in a holding company.
+
+>The court ordered a division of 42.5% of the proceeds to the wife and 57.5% to the husband, which put the husband’s post-separation endeavour at approximately 15%.
+
+*Kingsley Napley is a London-based law firm, authorised and regulated by the Solicitors Regulation Authority. The firm's practice areas include: Corporate, Commercial & Finance, Costs & Litigation Management, Dispute Resolution, Family and Divorce, Real Estate & Construction, and Restructuring and Insolvency. Kingsley Napley has won recent industry awards including "Law firm of the year: The Independents" from The Lawyer and is commended in seven categories in The Times Best Law Firms 2024.* Source: Wikipedia
+
+[^1]: Should either party be dissatisfied with the single joint expert report, then it is open for them to make a *Daniels v Walker* application.
 
 
 # Case Studies, Notebooks and Practice Exercises
