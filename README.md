@@ -98,7 +98,7 @@ Should either party be dissatisfied with the single joint expert report, then it
 
 
 
-# Case Studies, Notebooks and Practice Exercises
+# Case Studies, Notebooks and Excel Practice Exercises
 
 **Case Studies**
 
