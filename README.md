@@ -128,7 +128,7 @@ Exercise 03 / Simple Interest Capitalization: [🔗Loans Renegotiation](https://
 - Computations associated with loans renegotiation.
 - Excel: using Goal Seek to solve equations and compute critical values.
 
-# Meta Discussions
+# Meta Discussion
 
 Meta 01 / [🔗Calculating with Formulas, Computing with Spreadsheets and Generative AIs](https://github.com/ASaragga/FinCalc/blob/main/MetaEN01.pdf) ![](Evolution.png?raw=true)
 
