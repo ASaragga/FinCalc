@@ -6,7 +6,9 @@ However, certain areas of legal practice do require a good understanding of fina
 
 # Topics Where Law Meets Finance 🍻
 
-**Areas where Financial Skills may be Useful for Solicitors** 
+**Areas where Financial Skills may be Useful for Solicitors**. Bayer agrees to pay more than $10 billion to settle claims that its weedkiller, Roundup, caused cancer. Why not $15 billion or $5 billion?
+
+
 
 Commercial Law
 - Understanding financial statements: In commercial law, solicitors often deal with company finances, business transactions, and mergers. A strong grasp of financial statements (balance sheets, income statements, and cash flows) is crucial.
@@ -47,14 +49,12 @@ Financial:
 - Negotiation Skills: Particularly in financial settlements, loan agreements, and contracts.
 
 
-# Law & Finance Around the World
-
-Bayer agrees to pay more than $10 billion to settle claims that its weedkiller, Roundup, caused cancer. Why not $15 billion or $5 billion?
+# Law & Finance Courses Around the World
 
 
 
 
-## Courses Overview
+## Executive Education
 
 **Financial Analysis and Valuation for Lawyers (Harvard Law School, USA)**. 
 Teaches lawyers how to analyze financial statements, understand valuation methods, and apply them in legal contexts such as M&A or bankruptcy.
