@@ -118,10 +118,13 @@ Exercise 01 / Fundamental Basic Concepts: [🔗Calendar Bases](https://github.co
 Exercise 02 / Fundamental Basic Concepts: [🔗Financial Modeling](https://github.com/ASaragga/FinCalc/blob/main/Exercicio02.pdf). Learning Objectives:
 - Basic financial modeling: product & service sales, variable and fixed costs, operating income and net income.
 - Calculation of interest produced in a period, based on different calendar bases.
+- Choosing the most favorable loan among alternatives.
 - Excel: using Goal Seek to solve equations and compute critical values.
 
 Exercise 03 / Simple Interest Capitalization: [🔗Loans Renegotiation](https://github.com/ASaragga/FinCalc/blob/main/Exercicio03.pdf). Learning Objectives:
 - Computations associated with loans renegotiation.
 - Excel: using Goal Seek to solve equations and compute critical values.
-  
+
+# Meta Discussions
+
 🔗 = HyperLink
