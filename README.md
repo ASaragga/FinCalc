@@ -92,11 +92,11 @@ With over 800,000 businesses incorporated in the UK every year, it is no surpris
 
 >The court ordered a division of 42.5% of the proceeds to the wife and 57.5% to the husband, which put the husband’s post-separation endeavour at approximately 15%.
 
-Should either party be dissatisfied with the single joint expert report, then it is open for them to make a *Daniels v Walker* application[^1].
+Should either party be dissatisfied with the single joint expert report, then it is open for them to make a *Daniels v Walker* application [^1].
 
 *Kingsley Napley is a London-based law firm, authorised and regulated by the Solicitors Regulation Authority. The firm's practice areas include: Corporate, Commercial & Finance, Costs & Litigation Management, Dispute Resolution, Family and Divorce, Real Estate & Construction, and Restructuring and Insolvency. (Source: Wikipedia).*
 
-[^1]: In certain situations, one or both parties may want to consult an expert of their own choosing to determine whether to challenge the single joint expert’s report. This process, now referred to as a Daniels v Walker application in the UK, originates from the 2000 case where such a ruling was first made. It applies to all court matters requiring expert evidence. Even when appointed by one party, these experts must remain impartial.
+[^1]: In certain situations, one or both parties may want to consult an expert of their own choosing to determine whether to challenge the single joint expert’s report. In the UK this process, now referred to as a Daniels v Walker application, originates from the 2000 case where such a ruling was first made. It applies to all court matters requiring expert evidence. Even when appointed by one party, these experts must remain impartial.
 
 # Case Studies, Background Notes and Excel Exercises
 
