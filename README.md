@@ -127,7 +127,7 @@ Exercise 03 / Simple Interest Capitalization: [🔗Loans Renegotiation](https://
 
 # Meta Discussions
 
-Meta 01 / Hand Calculations with Formulas, Spreadsheets and Generative Artificial Intelligence: [🔗](https://github.com/ASaragga/FinCalc/blob/main/MetaEN01.pdf)
+Meta 01 / Hand Calculations with Formulas, Spreadsheets and Generative Artificial Intelligence: [🔗<img width="449" alt="Image credit - Adam Zyglis | Copyright 2018 Cagle Cartoons" src="https://github.com/user-attachments/assets/9c2eb2a9-0298-4f37-8614-2bdeecba780f">](https://github.com/ASaragga/FinCalc/blob/main/MetaEN01.pdf)
 <img width="449" alt="Image credit - Adam Zyglis | Copyright 2018 Cagle Cartoons" src="https://github.com/user-attachments/assets/9c2eb2a9-0298-4f37-8614-2bdeecba780f">
 
 
