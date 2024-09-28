@@ -98,13 +98,13 @@ Should either party be dissatisfied with the single joint expert report, then it
 
 
 
-# Case Studies, Notebooks and Excel Practice Exercises
+# Case Studies, Notebooks and Excel Exercises
 
 **Case Studies**
 
 **Jupyter/Pluto Notebooks**
 
-**Excel Practice Exercises**
+**Excel Exercises**
 
 Exercise 01 / Fundamental Basic Concepts: [🔗Calendar Bases](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf). Learning Objectives:
 - Brief historical account of how Day Count Conventions developed.
