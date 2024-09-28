@@ -106,12 +106,15 @@ Case Study 01 / [🔗IRS Snowballs in Portugal: The Worst Deal in the World!](ht
 
 Case Study 02 / [🔗The Owner of All This: The Fall of a Financial Empire](https://github.com/ASaragga/FinCalc/blob/main/CaseStudy02.pdf). Learning Objectives:
 
-**Background Notes: Jupyter/Pluto Notebooks**
+**Background Notes & Interactive Notebooks**
+
+Note 01 / Brief Historical Account of How Day Count Conventions Developed: [🔗](https://github.com/ASaragga/FinCalc/blob/main/Note01.pdf). Learning Objectives:
+
+Note 02 / Lies, Damned lies, and Statistics: [🔗](https://github.com/ASaragga/FinCalc/blob/main/Note02.pdf). Learning Objectives:
 
 **Practice Exercises in Excel**
 
 Exercise 01 / Fundamental Basic Concepts: [🔗Calendar Bases](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf). Learning Objectives:
-- Brief historical account of how Day Count Conventions developed.
 - Calculation of interest produced in a period, based on different calendar bases.
 - Excel: use of financial functions (YEARFRAC) and date & time functions (DATE).
 
