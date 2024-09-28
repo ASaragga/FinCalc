@@ -92,7 +92,7 @@ With over 800,000 businesses incorporated in the UK every year, it is no surpris
 
 >The court ordered a division of 42.5% of the proceeds to the wife and 57.5% to the husband, which put the husband’s post-separation endeavour at approximately 15%.
 
-Should either party be dissatisfied with the single joint expert report, then it is open for them to make a *Daniels v Walker* application [^1].
+Should either party be dissatisfied with the single joint expert report, then it is open for them to make a *Daniels v Walker* application[^1].
 
 *Kingsley Napley is a London-based law firm, authorised and regulated by the Solicitors Regulation Authority. The firm's practice areas include: Corporate, Commercial & Finance, Costs & Litigation Management, Dispute Resolution, Family and Divorce, Real Estate & Construction, and Restructuring and Insolvency. (Source: Wikipedia).*
 
