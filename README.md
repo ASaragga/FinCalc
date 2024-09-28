@@ -96,7 +96,7 @@ Should either party be dissatisfied with the single joint expert report, then it
 
 *Kingsley Napley is a London-based law firm, authorised and regulated by the Solicitors Regulation Authority. The firm's practice areas include: Corporate, Commercial & Finance, Costs & Litigation Management, Dispute Resolution, Family and Divorce, Real Estate & Construction, and Restructuring and Insolvency. (Source: Wikipedia).*
 
-[1^]: There may be circumstances where one or both parties may wish to consult an expert of their choosing to decide whether they should challenge the report of the single joint expert. In the UK, this is now known as a Daniels v Walker application after the case in which a ruling of this kind was first made (2000). This is applicable to all matters that reach court and where expert evidence is required. Experts appointed this way are still required to be impartial.
+[1^]: In certain situations, one or both parties may want to consult an expert of their own choosing to determine whether to challenge the single joint expert’s report. This process, now referred to as a Daniels v Walker application in the UK, originates from the 2000 case where such a ruling was first made. It applies to all court matters requiring expert evidence. Even when appointed by one party, these experts must remain impartial.
 
 # Case Studies, Background Notes and Excel Exercises
 
