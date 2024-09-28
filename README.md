@@ -116,7 +116,7 @@ Exercise 02 / Fundamental Basic Concepts: [🔗Financial Modeling, Calendar Base
 - Calculation of interest produced in a period, based on different calendar bases.
 - Excel: using Goal Seek to compute critical values.
 
-Exercise 03 / Simple Interest Capitalization: [🔗Loan Renegotiationl](https://github.com/ASaragga/FinCalc/blob/main/Exercicio03.pdf). Learning Objectives:
+Exercise 03 / Simple Interest Capitalization: [🔗Loan Renegotiation](https://github.com/ASaragga/FinCalc/blob/main/Exercicio03.pdf). Learning Objectives:
 - Computations associated with loan renegotiation.
 - Excel: using Goal Seek to compute critical values.
   
