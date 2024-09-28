@@ -85,7 +85,7 @@ Videos featuring experts sharing their real-world professional experiences as so
 # Blogs
 Discover the professional insights of experienced solicitors as they navigate the complex relationship between law and financial analysis. Our blog articles delve into real-world experiences, offering expert perspectives and insights on how financial analysis & calculus impacts legal decisions, contract drafting, dispute resolution, and compliance. 
 
-Whether you're a legal professional, a financial expert, or someone interested in the practical application of these fields, this blog provides a wealth of valuable knowledge, pratical tips, and in-depth analysis drawn from the front lines of legal practice.
+Whether you're a legal professional, a financial expert, or someone interested in the practical application of these fields, these blogs provide a wealth of valuable knowledge, pratical tips, and in-depth analysis drawn from the front lines of legal practice.
 
 
 **Blog 01 / Mind your Business: Valuing Corporate Assets on Divorce (Kingsley Napley, 2024)** 
