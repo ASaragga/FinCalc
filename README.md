@@ -73,8 +73,6 @@ Teaches lawyers how to analyze financial statements, understand valuation method
 - Accounting, finance, and valuation are key elements in many legal disputes.
 - Present value, discounting, the perpetuity formula, Comparable Company analysis and the DCF model are all used by solictors in various ways in real lawsuits.
 
-London School of Economics (LSE)
-
 # Video Testimonials
 
 Videos featuring experts sharing their real-world professional experiences as solicitors. Walk in the footseps of experts to learn how they use judgement to answear important questions in the intersection of both legal and quantitative finance perspectives.
