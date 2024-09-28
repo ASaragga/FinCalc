@@ -56,11 +56,11 @@ Bayer agrees to pay more than $10 billion to settle claims that its weedkiller, 
 
 ## Courses Overview
 
-**Financial Analysis and Valuation for Lawyers / Harvard Law School** (⭣Video)
+**Financial Analysis and Valuation for Lawyers (Harvard Law School)** 
 
 >  Lawyers negotiate deals and manage lawsuits involving billions of dollars each year. To do that, you need more than legal expertise. You need a fundamental understanding of the finances behind a deal or dispute, including how to read and analyze financial statements or use financial concepts to value a business, patent, or marital estate. You need more than law knowledge to advise a client on any significant transaction — and to help a client even assess whether it's best to pursue a claim or to settle.
 
->  Successful attorneys cannot leave accounting, finance and valuation solely to a finance team, or outside experts. You need to independently understand the financial opportunities your client faces and discuss them using the language of finance. Through examples of disputes, valuations, and presentations from real-world practitioners, this course will teach you how to interpret and use financial data, make a business case for a deal or lawsuit, and understand when and how experts can support — or undermine — your work.
+>  Successful attorneys cannot leave accounting, finance and valuation solely to a finance team, or outside experts. You need to independently understand the financial opportunities your client faces and discuss them using the language of finance. Through examples of disputes, valuations, and presentations from real-world practitioners, this course will teach you how to interpret and use financial data, make a business case for a deal or lawsuit, and understand when and how experts can support — or undermine — your work. 
 
 > [![Harvard Law School Course](Assets/FVL01.png)](https://youtu.be/QPoRUsRzcPM "Financial Analysis and Valuation for Lawyers")
 
@@ -88,7 +88,7 @@ Discover the professional insights of experienced solicitors as they navigate th
 Whether you're a legal professional, a financial expert, or someone interested in the practical application of these fields, this blog provides a wealth of valuable knowledge, pratical tips, and in-depth analysis drawn from the front lines of legal practice.
 
 
-**Mind your Business: Valuing Corporate Assets on Divorce / Kingsley Napley, 2024** 
+**Blog 01 / Mind your Business: Valuing Corporate Assets on Divorce (Kingsley Napley, 2024)** 
 
 >With over 800,000 businesses incorporated in the UK every year, it is no surprise that business assets and in particular the disposal of business interests are often a significant issue when dividing assets between separating spouses in financial remedy proceedings. 
 
@@ -100,7 +100,7 @@ Whether you're a legal professional, a financial expert, or someone interested i
 
 >The court ordered a division of 42.5% of the proceeds to the wife and 57.5% to the husband, which put the husband’s post-separation endeavour at approximately 15%.
 
-*Kingsley Napley is a London-based law firm, authorised and regulated by the Solicitors Regulation Authority. The firm's practice areas include: Corporate, Commercial & Finance, Costs & Litigation Management, Dispute Resolution, Family and Divorce, Real Estate & Construction, and Restructuring and Insolvency. Kingsley Napley has won recent industry awards including "Law firm of the year: The Independents" from The Lawyer and is commended in seven categories in The Times Best Law Firms 2024.* Source: Wikipedia
+*Kingsley Napley is a London-based law firm, authorised and regulated by the Solicitors Regulation Authority. The firm's practice areas include: Corporate, Commercial & Finance, Costs & Litigation Management, Dispute Resolution, Family and Divorce, Real Estate & Construction, and Restructuring and Insolvency. Kingsley Napley has won recent industry awards including "Law firm of the year: The Independents" from The Lawyer.* Source: Wikipedia
 
 [^1]: Should either party be dissatisfied with the single joint expert report, then it is open for them to make a *Daniels v Walker* application.
 
@@ -113,12 +113,12 @@ Whether you're a legal professional, a financial expert, or someone interested i
 
 **Practice Exercises**
 
-Fundamental Basic Concepts / Exercise 01: [🔗Calendar Bases & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf). Learning Objectives:
+Exercise 01 / Fundamental Basic Concepts: [🔗Calendar Bases & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio01.pdf). Learning Objectives:
 - Brief historical account of how Day Count Conventions developed.
 - Calculation of interest produced in a period, based on different calendar bases.
 - Excel: use of financial functions (YEARFRAC) and date & time functions (DATE).
 
-Fundamental Basic Concepts / Exercise 02: [🔗Financial Modeling, Calendar Bases & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio02.pdf). Learning Objectives:
+Exercise 02 / Fundamental Basic Concepts: [🔗Financial Modeling, Calendar Bases & Excel](https://github.com/ASaragga/FinCalc/blob/main/Exercicio02.pdf). Learning Objectives:
 - Basic financial modeling: product & service sales, variable and fixed costs, operating income and net income.
 - Calculation of interest produced in a period, based on different calendar bases.
 - Excel: using Goal Seek to compute critical values.
