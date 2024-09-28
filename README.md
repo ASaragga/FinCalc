@@ -50,7 +50,7 @@ Financial:
 # Law & Finance Around the World
 
 **Financial Analysis and Valuation for Lawyers (Harvard Law School)**. 
-Teaches lawyers how to analyze financial statements, understand valuation methods, and apply them in legal contexts such as M&A or bankruptcy.
+Teaches solicitors and lawyers how to analyze financial statements, understand valuation methods, and apply them in legal contexts such as M&A or bankruptcy.
 
 >  Lawyers negotiate deals and manage lawsuits involving billions of dollars each year. To do that, you need more than legal expertise. You need a fundamental understanding of the finances behind a deal or dispute, including how to read and analyze financial statements or use financial concepts to value a business, patent, or marital estate. You need more than law knowledge to advise a client on any significant transaction — and to help a client even assess whether it's best to pursue a claim or to settle.
 
