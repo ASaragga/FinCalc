@@ -4,7 +4,7 @@ Financial calculus is not typically a core requirement for solicitors, as their 
 
 However, certain areas of legal practice do require a good understanding of financial concepts, models, and calculations, which can give solicitors a significant competitive edge, especially in matters involving financial transactions, contracts, and disputes.
 
-This is particularly true in cases of international trade and foreign direct investment, where multiple jurisdictions are involved.
+*This is particularly true in cases of international trade and foreign direct investment, where multiple jurisdictions are involved.*
 
 # Topics Where Law Meets Finance 🥂
 
