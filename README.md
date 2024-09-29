@@ -46,10 +46,10 @@ Financial:
 - Analytical Skills: To assess financial documents, valuations, and damages claims.
 - Negotiation Skills: Particularly in financial settlements, loan agreements, and contracts.
 
-# International Trade & Business, Law and Finance Practice
+# Practice in International Trade & Business, Law, and Finance
 
 
-# Law & Finance Around the World
+# Law and Finance Around the World
 
 **Financial Analysis and Valuation for Lawyers (Harvard Law School)**. 
 Teaches solicitors and lawyers how to analyze financial statements, understand valuation methods, and apply them in legal contexts such as M&A or bankruptcy. (⭣Video)
