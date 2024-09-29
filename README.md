@@ -151,16 +151,16 @@ Para calcular o valor atual da dívida sob o regime de juros simples e base de c
   - \( t \) é o tempo em anos.
 
 - **Desconto por fora**:  
-  \( $PV = FV \times (1 - i \times t) $\)  
+  $PV = FV \times (1 - i \times t) $  
   Onde:  
   - \( i \) é a taxa de juro trimestral.
   - \( t \) é o tempo em anos.
 
 ### Cálculos:
 1. **Para desconto por dentro**:
-   - Valor atual de cada pagamento = \( \frac{FV}{1 + (i \times t)} \)
+   - Valor atual de cada pagamento = $ \frac{FV}{1 + (i \times t)}$
 2. **Para desconto por fora**:
-   - Valor atual de cada pagamento = \( FV \times (1 - i \times t) \)
+   - Valor atual de cada pagamento = $ FV \times (1 - i \times t)$
 
 ### Resultado dos cálculos:
 - **Desconto por dentro**: **€38.151,74**
