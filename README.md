@@ -141,8 +141,7 @@ Exercise 03 / Simple Interest Capitalization: [🔗Loans Renegotiation](https://
 Meta 01 / [🔗Calculating with Formulas, Computing with Spreadsheets and Generative AIs](https://github.com/ASaragga/FinCalc/blob/main/MetaEN01.pdf). Solving the July 2024 Financial Calculus Special Exam with Generative AI and Excel.
 ![](Evolution.png?raw=true)
 
-Autor: Adam Zyglis | Copyright &copy; 2018 Cagle Cartoons
-<!--- <img width="600" src="https://github.com/user-attachments/assets/5909aaee-afbe-425d-adb1-97b8083247eb"> 1618 × 846 -->
+<!--- Autor: Adam Zyglis | Copyright &copy; 2018 Cagle Cartoons -->
 
 # Off-topic
 
