@@ -88,9 +88,6 @@ In international trade finance, several financial products and instruments are c
 - **Foreign Exchange (FX) Contracts**. FX Forwards and FX Options allow companies to hedge against currency risks in international trade transactions.
 
 
-
-These financial products help mitigate risks, improve liquidity, and ensure smooth transactions in international trade.
-
 **Foreign Direct Investment: Establishing New Operations and Mergers & Aquisitions**. Direct investment implies a long-term interest and a significant degree of influence or control over the business operations. It’s different from portfolio investment, where investors simply purchase financial assets like stocks or bonds without control over the business. Foreign Direct Investment refers to a direct investment made by a company or individual from one country into business interests in another country,
 
 **Complications: Exchange Rates**
