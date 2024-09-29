@@ -163,6 +163,7 @@ Para calcular o valor atual da dívida sob o regime de juros simples e base de c
 - **Desconto por fora**: **€37.733,33**
 
 Esses valores representam o valor presente total da dívida com base nas duas modalidades de desconto.
+![image](https://github.com/user-attachments/assets/41bd882d-4a2c-475f-8616-92e9f2ff5696)
 
 # Offtopic
 
