@@ -139,8 +139,9 @@ Uma dívida, contraída à taxa de juro trimestral de 2%, será liquidada atrav�
 - O valor atual da dívida (momento 0) na modalidade do desconto por dentro. 
 - O valor atual da dívida (momento 0) na modalidade do desconto por fora. 
 
-
 ![image](https://github.com/user-attachments/assets/600ab3e7-8d19-4c10-8901-dd50910c1326)
+
+O link (.) 
 
 # Offtopic
 
