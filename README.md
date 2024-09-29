@@ -76,6 +76,44 @@ Teaches solicitors and lawyers how to analyze financial statements, understand v
 
 **International Trade**
 In international trade finance, several financial products and instruments are commonly used to facilitate and secure cross-border transactions. Here are the main financial products:
+In **international trade finance**, several financial products and instruments are commonly used to facilitate and secure cross-border transactions. Here are the main financial products:
+
+### 1. **Letters of Credit (LC)**
+   - A **Letter of Credit** is a guarantee from a bank that the seller will receive payment from the buyer, provided specific conditions (such as shipping documents) are met.
+     - **Types of LCs**: Revocable, Irrevocable, Confirmed, Unconfirmed, Standby LC.
+
+### 2. **Bank Guarantees**
+   - A **Bank Guarantee** assures that the bank will cover a debtor’s obligations in case they default. It serves as a form of insurance for international transactions.
+
+### 3. **Documentary Collections**
+   - A bank acts as an intermediary to collect payment from the buyer on behalf of the seller upon presentation of shipping or financial documents. This includes:
+     - **Documents Against Payment (D/P)**: The buyer can only receive the documents when they make payment.
+     - **Documents Against Acceptance (D/A)**: The buyer receives the documents upon agreeing to pay at a later date.
+
+### 4. **Trade Credit**
+   - **Supplier Credit**: The exporter allows the importer to pay after the goods have been delivered.
+   - **Buyer Credit**: A loan offered to the buyer to finance the purchase, usually provided by the exporter’s bank.
+
+### 5. **Factoring**
+   - **Factoring** involves selling receivables (invoices) to a third party (the factor) at a discount. This provides immediate cash flow for exporters.
+
+### 6. **Forfaiting**
+   - **Forfaiting** is the purchase of future payment obligations from an exporter in exchange for immediate payment, typically used for medium- to long-term trade finance.
+
+### 7. **Export Credit Insurance**
+   - **Export Credit Insurance** protects exporters against the risk of non-payment by foreign buyers due to commercial or political risks.
+
+### 8. **Trade Finance Loans**
+   - Banks provide loans specifically for the purchase or sale of goods in international trade. These are often short-term and cover the transaction's financial needs.
+
+### 9. **Foreign Exchange (FX) Contracts**
+   - **FX Forwards** and **Options** allow companies to hedge against currency risks in international trade transactions.
+
+### 10. **Pre-shipment and Post-shipment Financing**
+   - **Pre-shipment Finance**: Provided to an exporter to fund working capital requirements before the goods are shipped.
+   - **Post-shipment Finance**: Finance provided to the exporter once goods are shipped but payment from the buyer is delayed.
+
+These financial products help mitigate risks, improve liquidity, and ensure smooth transactions in international trade.
 
 **Foreign Direct Investment: Establishing New Operations and Mergers & Aquisitions**. Direct investment implies a long-term interest and a significant degree of influence or control over the business operations. It’s different from portfolio investment, where investors simply purchase financial assets like stocks or bonds without control over the business. Foreign Direct Investment refers to a direct investment made by a company or individual from one country into business interests in another country,
 
