@@ -77,7 +77,7 @@ Teaches solicitors and lawyers how to analyze financial statements, understand v
 **International Trade**
 In international trade finance, several financial products and instruments are commonly used to facilitate and secure cross-border transactions. Here are the main financial products:
 
-**International Direct Investmente and Mergers & Aquisitions**
+**Foreign Direct Investment and Mergers & Aquisitions**
 
 **Exchange Rates**
 
