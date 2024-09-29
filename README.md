@@ -146,7 +146,55 @@ O link <img width="22" alt="ChatGPT" src="https://github.com/user-attachments/as
 
 <img width="1161" alt="Screenshot 2024-09-29 at 03 32 01" src="https://github.com/user-attachments/assets/9321fbc0-ad24-4407-a65a-aa3bb72448b1">
 
+Solução do Exercício pelo Claude:
 
+Para resolver este problema, vamos calcular o valor atual da dívida usando tanto o desconto por dentro quanto o desconto por fora. Vamos começar definindo algumas variáveis e convertendo os dados para a unidade de tempo adequada.
+
+Dados:
+- Taxa de juro trimestral: 2%
+- Pagamentos: 14000€ (10 meses), 12000€ (15 meses), 16000€ (20 meses)
+- Regime: Juro simples
+- Base de calendário: 30/360
+
+Primeiro, convertemos a taxa trimestral para mensal:
+Taxa mensal = 2% / 3 = 0,6667% ao mês
+
+Agora, vamos calcular o valor atual de cada pagamento:
+
+1. Desconto por dentro:
+
+Para o desconto por dentro, usamos a fórmula: VA = VF / (1 + i * t)
+
+Onde:
+VA = Valor Atual
+VF = Valor Futuro
+i = taxa de juros (mensal)
+t = tempo (em meses)
+
+Para cada pagamento:
+- VA1 = 14000 / (1 + 0,006667 * 10) = 13090,91€
+- VA2 = 12000 / (1 + 0,006667 * 15) = 10909,09€
+- VA3 = 16000 / (1 + 0,006667 * 20) = 14117,65€
+
+Valor Atual Total (Desconto por dentro) = 13090,91 + 10909,09 + 14117,65 = 38117,65€
+
+2. Desconto por fora:
+
+Para o desconto por fora, usamos a fórmula: VA = VF - (VF * i * t)
+
+Para cada pagamento:
+- VA1 = 14000 - (14000 * 0,006667 * 10) = 13066,62€
+- VA2 = 12000 - (12000 * 0,006667 * 15) = 10800,00€
+- VA3 = 16000 - (16000 * 0,006667 * 20) = 13866,56€
+
+Valor Atual Total (Desconto por fora) = 13066,62 + 10800,00 + 13866,56 = 37733,18€
+
+Portanto, as respostas são:
+
+* O valor atual da dívida (momento 0) na modalidade do desconto por dentro: 38117,65€
+* O valor atual da dívida (momento 0) na modalidade do desconto por fora: 37733,18€
+
+Note que o valor atual calculado pelo desconto por dentro é maior que o calculado pelo desconto por fora, o que é consistente com a teoria financeira.
 # Offtopic
 
 🔗 = HyperLink
