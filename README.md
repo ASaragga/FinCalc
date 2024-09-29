@@ -85,7 +85,7 @@ In international trade finance, several financial products and instruments are c
 - **Export Credit Insurance**. Protects exporters against the risk of non-payment by foreign buyers due to commercial or political risks.
 - **Trade Finance Loans**. Banks provide loans specifically for the purchase or sale of goods in international trade. These are often short-term and cover the transaction's financial needs.
 - **Pre-shipment and Post-shipment Financing**. Pre-shipment finance is provided to an exporter to fund working capital requirements before the goods are shipped. Post-shipment finance is provided to the exporter once goods are shipped but payment from the buyer is delayed.
-- **Foreign Exchange (FX) Contracts**. **FX Forwards** and **FX Options** allow companies to hedge against currency risks in international trade transactions.
+- **Foreign Exchange (FX) Contracts**. FX Forwards and FX Options allow companies to hedge against currency risks in international trade transactions.
 
 
 
