@@ -141,6 +141,7 @@ Exame de Cálculo Financeiro em Solicitadoria da Época Especial de 2023/24. Qua
 
 **Solução do Exercício pelo GPT-4o**:
 ![image](https://github.com/user-attachments/assets/600ab3e7-8d19-4c10-8901-dd50910c1326)
+O link em azul permite aceder ao scipt em Python que permitiu calcular a solução do exercício.
 
 **Solução do Exercício pelo Claude.AI**:
 
