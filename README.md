@@ -4,6 +4,8 @@ Financial calculus is not typically a core requirement for solicitors, as their 
 
 However, certain areas of legal practice do require a good understanding of financial concepts, models and calculus and can give solicitors a competitive edge, particularly in those areas involving financial transactions, contracts, and disputes.
 
+Particularly so, in the case of 
+
 # Topics Where Law Meets Finance 🥂
 
 **Areas where Financial Skills may be Useful for Solicitors**. Bayer agrees to pay more than $10 billion to settle claims that its weedkiller, Roundup, caused cancer. Why not $15 billion or $5 billion?
