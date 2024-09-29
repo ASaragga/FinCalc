@@ -46,6 +46,8 @@ Financial:
 - Analytical Skills: To assess financial documents, valuations, and damages claims.
 - Negotiation Skills: Particularly in financial settlements, loan agreements, and contracts.
 
+# International Trade & Business, Law and Finance Practice
+
 
 # Law & Finance Around the World
 
