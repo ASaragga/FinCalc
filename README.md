@@ -142,7 +142,7 @@ Exame de Cálculo Financeiro em Solicitadoria da Época Especial de 2023/24. Qua
 Solução do Exercício pelo GPT-4o:
 ![image](https://github.com/user-attachments/assets/600ab3e7-8d19-4c10-8901-dd50910c1326)
 
-O link <img width="22" alt="ChatGPT" src="https://github.com/user-attachments/assets/660c76db-5398-48ea-a1cb-1a56ab854504">
+O link <img width="22" alt="ChatGPT" src="https://github.com/user-attachments/assets/660c76db-5398-48ea-a1cb-1a56ab854504"> permite observarmos o script em Python que efetuou os cálculos necessarios à obtençao da solução do exercício.
 
 <img width="1161" alt="Screenshot 2024-09-29 at 03 32 01" src="https://github.com/user-attachments/assets/9321fbc0-ad24-4407-a65a-aa3bb72448b1">
 
