@@ -46,8 +46,6 @@ Financial:
 - Analytical Skills: To assess financial documents, valuations, and damages claims.
 - Negotiation Skills: Particularly in financial settlements, loan agreements, and contracts.
 
-# Practice in International Trade & Business, Law, and Finance
-
 
 # Law and Finance Around the World
 
@@ -72,6 +70,9 @@ Teaches solicitors and lawyers how to analyze financial statements, understand v
 >  **Takeaways**
 - Accounting, finance, and valuation are key elements in many legal disputes.
 - Present value, discounting, the perpetuity formula, Comparable Company analysis and the DCF model are all used by solictors in various ways in real lawsuits.
+
+
+# Law $ \bigcap $ Finance International $ \bigcap $ Trade & Business
 
 # Video Testimonials
 
