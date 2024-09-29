@@ -165,6 +165,8 @@ Para calcular o valor atual da dívida sob o regime de juros simples e base de c
 Esses valores representam o valor presente total da dívida com base nas duas modalidades de desconto.
 ![image](https://github.com/user-attachments/assets/41bd882d-4a2c-475f-8616-92e9f2ff5696)
 
+![image](https://github.com/user-attachments/assets/600ab3e7-8d19-4c10-8901-dd50910c1326)
+
 # Offtopic
 
 🔗 = HyperLink
