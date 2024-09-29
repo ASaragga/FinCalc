@@ -72,7 +72,7 @@ Teaches solicitors and lawyers how to analyze financial statements, understand v
 - Present value, discounting, the perpetuity formula, Comparable Company analysis and the DCF model are all used by solictors in various ways in real lawsuits.
 
 
-# Law $ \bigcap $ Finance International $ \bigcap $ Trade & Business
+# Law ∩ Finance ∩ International Trade & Business
 
 # Video Testimonials
 
