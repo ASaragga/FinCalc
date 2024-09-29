@@ -72,7 +72,17 @@ Teaches solicitors and lawyers how to analyze financial statements, understand v
 - Present value, discounting, the perpetuity formula, Comparable Company analysis and the DCF model are all used by solictors in various ways in real lawsuits.
 
 
-# Law ∩ Finance ∩ International Trade & Business
+# Going Global: International Trade & Business ∩ Finance ∩ Law
+
+**International Trade**
+In international trade finance, several financial products and instruments are commonly used to facilitate and secure cross-border transactions. Here are the main financial products:
+
+**International Direct Investmente and Mergers & Aquisitions**
+
+**Exchange Rates**
+
+**Jurisdictions Complications**
+
 
 # Video Testimonials
 
