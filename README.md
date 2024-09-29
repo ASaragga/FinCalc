@@ -139,10 +139,10 @@ Exame de Cálculo Financeiro em Solicitadoria da Época Especial de 2023/24. Qua
 - O valor atual da dívida (momento 0) na modalidade do desconto por dentro. 
 - O valor atual da dívida (momento 0) na modalidade do desconto por fora. 
 
-Solução do Exercício pelo GPT-4o:
+**Solução do Exercício pelo GPT-4o**:
 ![image](https://github.com/user-attachments/assets/600ab3e7-8d19-4c10-8901-dd50910c1326)
 
-Solução do Exercício pelo Claude:
+**Solução do Exercício pelo Claude.AI**:
 
 Para resolver este problema, vamos calcular o valor atual da dívida usando tanto o desconto por dentro quanto o desconto por fora. Vamos começar definindo algumas variáveis e convertendo os dados para a unidade de tempo adequada.
 
