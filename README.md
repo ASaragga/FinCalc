@@ -133,7 +133,6 @@ Exercise 03 / Simple Interest Capitalization: [🔗Loans Renegotiation](https://
 Meta 01 / [🔗Calculating with Formulas, Computing with Spreadsheets and Generative AIs](https://github.com/ASaragga/FinCalc/blob/main/MetaEN01.pdf) ![](Evolution.png?raw=true)
 
 Para calcular o valor atual da dívida sob o regime de juros simples e base de calendário 30/360, temos dois métodos de desconto: **desconto por dentro** e **desconto por fora**.
-
 ### Dados fornecidos:
 - **Taxa de juro trimestral**: 2% (0,02 por trimestre)
 - **Pagamentos**:
@@ -142,20 +141,17 @@ Para calcular o valor atual da dívida sob o regime de juros simples e base de c
   - 16.000€ em 20 meses
 - **Regime de juro simples**
 - **Base de calendário 30/360**
-
 ### Fórmulas:
 - **Desconto por dentro**:  
    $PV = \frac{FV}{1 + (i \times t)}$  
   Onde:  
   - \( i \) é a taxa de juro trimestral (0,02).
   - \( t \) é o tempo em anos.
-
 - **Desconto por fora**:  
   $PV = FV \times (1 - i \times t) $  
   Onde:  
   - \( i \) é a taxa de juro trimestral.
   - \( t \) é o tempo em anos.
-
 ### Cálculos:
 1. **Para desconto por dentro**:
    - Valor atual de cada pagamento = $ \frac{FV}{1 + (i \times t)}$
