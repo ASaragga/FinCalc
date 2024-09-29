@@ -145,7 +145,7 @@ Para calcular o valor atual da dívida sob o regime de juros simples e base de c
 
 ### Fórmulas:
 - **Desconto por dentro**:  
-  $$\( PV = \frac{FV}{1 + (i \times t)} \)  $$
+  $$ PV = \frac{FV}{1 + (i \times t)}  $$
   Onde:  
   - \( i \) é a taxa de juro trimestral (0,02).
   - \( t \) é o tempo em anos.
