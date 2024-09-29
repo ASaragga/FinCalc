@@ -135,12 +135,11 @@ Meta 01 / [🔗Calculating with Formulas, Computing with Spreadsheets and Genera
 
 Exame de Cálculo Financeiro em Solicitadoria da Época Especial de 2023/24. Quatro exercícios, sobre matéria dos Módulos 2-5 e cada um valendo 5.0 valores. Duração do Exame 2h00. 
 
-Exercício sobre Regime de Juros Simples.
-Uma dívida, contraída à taxa de juro trimestral de 2%, será liquidada através de três pagamentos, de capital e juros, de 14000€ daqui a 10 meses, 12000€ dentro de 15 meses e 16000€ dentro de 20 meses. Regime de juro simples. Base de calendário 30/360. Calcule:
+**Exercício 3 sobre Regime de Juros Simples**. Uma dívida, contraída à taxa de juro trimestral de 2%, será liquidada através de três pagamentos, de capital e juros, de 14000€ daqui a 10 meses, 12000€ dentro de 15 meses e 16000€ dentro de 20 meses. Regime de juro simples. Base de calendário 30/360. Calcule:
 - O valor atual da dívida (momento 0) na modalidade do desconto por dentro. 
 - O valor atual da dívida (momento 0) na modalidade do desconto por fora. 
 
-Solução Exercício pelo GPT-4o
+Solução do Exercício pelo GPT-4o:
 ![image](https://github.com/user-attachments/assets/600ab3e7-8d19-4c10-8901-dd50910c1326)
 
 O link (.) 
