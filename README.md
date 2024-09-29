@@ -132,7 +132,7 @@ Exercise 03 / Simple Interest Capitalization: [🔗Loans Renegotiation](https://
 
 Meta 01 / [🔗Calculating with Formulas, Computing with Spreadsheets and Generative AIs](https://github.com/ASaragga/FinCalc/blob/main/MetaEN01.pdf) ![](Evolution.png?raw=true)
 
-Exame de Cálculo Financeiro em Solicitadoria da Época Especial de 2023/24. Quatro exercícios cada um valendo 5.0 valores. Duração do Exame 2h00. Exercício do Módulo 1 sobre Regime de Juros Simples.
+Exame de Cálculo Financeiro em Solicitadoria da Época Especial de 2023/24. Quatro exercícios, sobre matéria dos Módulos 2-5 e cada um valendo 5.0 valores. Duração do Exame 2h00. Exercício do Módulo 1 sobre Regime de Juros Simples.
 ![image](https://github.com/user-attachments/assets/41bd882d-4a2c-475f-8616-92e9f2ff5696)
 
 ![image](https://github.com/user-attachments/assets/600ab3e7-8d19-4c10-8901-dd50910c1326)
