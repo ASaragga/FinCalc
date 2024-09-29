@@ -74,7 +74,7 @@ Teaches solicitors and lawyers how to analyze financial statements, understand v
 
 # Going Global: International Trade & Business ∩ Finance ∩ Law
 
-**International Trade**. In international trade finance, several financial products and instruments are commonly used to mitigate risks, improve liquidity and ensure smooth and secure cross-border transactions in international trade. Here are the main financial products:
+**International Trade**. In international trade finance, several financial products and instruments are commonly used to mitigate risks, improve liquidity and ensure smooth and secure cross-border trade transactions. Here are the main financial products:
 - **Letters of Credit (LC)**. It is a guarantee from a bank that the seller will receive payment from the buyer, provided specific conditions (such as shipping documents) are met. Types of LCs: Revocable, Irrevocable, Confirmed, Unconfirmed, Standby LC.
 - **Bank Guarantees**. A Bank Guarantee assures that the bank will cover a debtor’s obligations in case they default. It serves as a form of insurance for international transactions.
 - **Documentary Collections**. A bank acts as an intermediary to collect payment from the buyer on behalf of the seller upon presentation of shipping or financial documents. This includes: (i) Documents Against Payment (D/P) where the buyer can only receive the documents when they make payment, (ii) Documents Against Acceptance (D/A) where the buyer receives the documents upon agreeing to pay at a later date.
