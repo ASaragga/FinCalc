@@ -131,7 +131,7 @@ Exercise 02 / Fundamental Basic Concepts: [🚧Financial Modeling](https://githu
 - Choosing the most favorable loan among alternatives.
 - Excel: using Goal Seek to solve equations and compute critical values.
 
-Exercise 03 / Simple Interest Capitalization: [🚧Loans Renegotiation](https://github.com/ASaragga/FinCalc/blob/main/Exercise03.pdf). Learning Objectives:
+Exercise 03 / Simple Interest Capitalization: [🔗Loans Renegotiation](https://github.com/ASaragga/FinCalc/blob/main/Exercise03.pdf). Learning Objectives:
 - Computations associated with loans renegotiation.
 - Excel: using Goal Seek to solve equations and compute critical values.
 
