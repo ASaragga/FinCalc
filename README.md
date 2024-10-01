@@ -109,15 +109,15 @@ Whether you're a legal professional, a financial expert, or someone interested i
 
 **Case Studies**
 
-Case Study 01 / [🔗IRS Snowballs in Portugal: The Worst Deal in the World!](https://github.com/ASaragga/FinCalc/blob/main/CaseStudy01.pdf). Learning Objectives:
+Case Study 01 / [🚧IRS Snowballs in Portugal: The Worst Deal in the World!](https://github.com/ASaragga/FinCalc/blob/main/CaseStudy01.pdf). Learning Objectives:
 
-Case Study 02 / [🔗The Owner of All This: The Fall of a Financial Empire](https://github.com/ASaragga/FinCalc/blob/main/CaseStudy02.pdf). Learning Objectives:
+Case Study 02 / [🚧The Owner of All This: The Fall of a Financial Empire](https://github.com/ASaragga/FinCalc/blob/main/CaseStudy02.pdf). Learning Objectives:
 
 **Background Notes & Interactive Notebooks**
 
 Note 01 / [🔗Brief Historical Account of How Day Count Conventions Developed](https://github.com/ASaragga/FinCalc/blob/main/Note01.pdf). Learning Objectives:
 
-Note 02 / [🔗Lies, Damned lies, and Statistics](https://github.com/ASaragga/FinCalc/blob/main/Note02.pdf). Learning Objectives:
+Note 02 / [🚧Lies, Damned lies, and Statistics](https://github.com/ASaragga/FinCalc/blob/main/Note02.pdf). Learning Objectives:
 
 **Practice Exercises in Excel**
 
@@ -125,20 +125,20 @@ Exercise 01 / Fundamental Basic Concepts: [🔗Calendar Bases](https://github.co
 - Calculation of interest produced in a period, based on different calendar bases.
 - Excel: use of financial functions (YEARFRAC) and date & time functions (DATE).
 
-Exercise 02 / Fundamental Basic Concepts: [🔗Financial Modeling](https://github.com/ASaragga/FinCalc/blob/main/Exercise02.pdf). Learning Objectives:
+Exercise 02 / Fundamental Basic Concepts: [🚧Financial Modeling](https://github.com/ASaragga/FinCalc/blob/main/Exercise02.pdf). Learning Objectives:
 - Basic financial modeling: product & service sales, variable and fixed costs, operating income and net income.
 - Calculation of interest produced in a period, based on different calendar bases.
 - Choosing the most favorable loan among alternatives.
 - Excel: using Goal Seek to solve equations and compute critical values.
 
-Exercise 03 / Simple Interest Capitalization: [🔗Loans Renegotiation](https://github.com/ASaragga/FinCalc/blob/main/Exercise03.pdf). Learning Objectives:
+Exercise 03 / Simple Interest Capitalization: [🚧Loans Renegotiation](https://github.com/ASaragga/FinCalc/blob/main/Exercise03.pdf). Learning Objectives:
 - Computations associated with loans renegotiation.
 - Excel: using Goal Seek to solve equations and compute critical values.
 
 # Meta Discussion
 
 
-Meta 01 / [🔗Financial Computations with Formulas, Spreadsheets and Generative AIs](https://github.com/ASaragga/FinCalc/blob/main/MetaEN01.pdf). Solving a Quantitative Finance Exam for Solicitors with Generative AI and Excel.
+Meta 01 / [🚧Financial Computations with Formulas, Spreadsheets and Generative AIs](https://github.com/ASaragga/FinCalc/blob/main/MetaEN01.pdf). Solving a Quantitative Finance Exam for Solicitors with Generative AI and Excel.
 ![](Evolution.png?raw=true)
 
 <!--- Autor: Adam Zyglis | Copyright &copy; 2018 Cagle Cartoons -->
@@ -146,3 +146,5 @@ Meta 01 / [🔗Financial Computations with Formulas, Spreadsheets and Generative
 # Off-topic
 
 🔗 = HyperLink
+
+🚧 = Hyperlink to document under construction
