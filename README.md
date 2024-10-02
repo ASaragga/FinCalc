@@ -135,6 +135,9 @@ Exercise 03 / Simple Interest Capitalization: [🔗Loans Renegotiation](https://
 - Computations associated with loans renegotiation.
 - Excel: using Goal Seek to solve equations and compute critical values.
 
+Exercise 04 / Compound Interest Capitalization: [🔗Capitalization: Between Calculations and Castles](https://github.com/ASaragga/FinCalc/blob/main/Exercise04.pdf). Learning Objectives: 
+- Capitalization process under compound interest regime.
+
 # Meta Discussion
 
 
