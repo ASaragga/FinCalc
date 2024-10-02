@@ -117,7 +117,7 @@ Case Study 03 / [🚧Between Calculations and Castles (B): Valuing a Business](h
 
 **Background Notes & Interactive Notebooks**
 
-Note 01 / [🔗Brief Historical Account of How Day Count Conventions Developed](https://github.com/ASaragga/FinCalc/blob/main/Note01.pdf). Learning Objectives:
+Note 01 / [🔗Brief Historical Account of How Day Count Conventions Developed](https://github.com/ASaragga/FinCalc/blob/main/Note01.pdf).
 
 Note 02 / [🚧Lies, Damned lies, and Statistics](https://github.com/ASaragga/FinCalc/blob/main/Note02.pdf). Learning Objectives:
 
