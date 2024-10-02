@@ -113,6 +113,8 @@ Case Study 01 / [🚧IRS Snowballs in Portugal: The Worst Deal in the World!](ht
 
 Case Study 02 / [🚧The Owner of All This: The Fall of a Financial Empire](https://github.com/ASaragga/FinCalc/blob/main/CaseStudy02.pdf). Learning Objectives:
 
+Case Study 03 / [🚧Between Calculations and Castles (B): Valuing a Business](https://github.com/ASaragga/FinCalc/blob/main/CaseStudy03.pdf). Learning Objectives:
+
 **Background Notes & Interactive Notebooks**
 
 Note 01 / [🔗Brief Historical Account of How Day Count Conventions Developed](https://github.com/ASaragga/FinCalc/blob/main/Note01.pdf). Learning Objectives:
